@@ -1,0 +1,724 @@
+#menu{
+	background:url("../../background.jpg");
+	background-size:cover;
+	background-attachment:fixed;
+	padding-bottom:234px;
+
+}
+
+.navbar{
+background-color:transparent;
+
+}
+//----------LOGO--------------------------------------
+#logo{
+	
+	min-height:127px;
+	background:#F0F0F0;
+	text-align:center;
+	overflow:hidden;
+
+    
+   .up{
+   	transition:all 0.5s;
+   	transform:translateY(-100px);
+   }
+   .down{
+   	transition:all 0.5s;
+   	transform:translateY(100px);
+
+
+
+   }
+
+
+	ul{padding:0px;
+		margin:20px;
+	}
+	li{
+	display:inline-block;
+	margin:0 25px;
+	img{
+	width:150px;
+	height:71px;}
+
+	}
+	}
+//---------------foreverystartup-----------------------
+#for{
+	margin-top:60px;
+    min-height:553px;
+  .container{
+  	text-align:center;
+  }
+  ul{
+  	padding:0;
+  }
+   li{
+   	border:1px solid #F0F0F0;
+   	color:black;
+   	padding: 20px 60px;
+   	margin:0px;
+   	border-left: 1px solid #e9e9e9;
+   }
+   li:hover{
+   	background:#1AC6FF;
+   	color:white;
+   }
+
+}
+
+.col-md-6{
+    
+	margin-top:40px;
+	img{
+		width:100%;
+		height:100%;
+	}
+
+// 			// a{
+// 		 //    font-size: 14px;
+// 		 //    padding: 15px 25px;}
+	
+
+span{color:#1AC6FF;}
+	h3{font-weight: 300;
+	  font-size: 34px;
+	}
+
+
+	.btn{
+		  
+		   margin: 0 7px;
+		   border: 1px solid #1AC6FF;
+		   color:#1AC6FF;
+		   font-size:18px;
+
+	}
+	.btn:hover{
+		background-color:#1AC6FF;
+		color:white;
+	}
+}
+hr{
+    width: 100%;
+    height: 1px;
+    border: none;
+    background-color: #e9e9e9;
+    margin: 0;
+}
+//--------------technology----------------------
+#technology{
+	min-height:486px;
+	.row{
+
+	// display:inline-block;
+    padding-right: 49px;
+    padding-left: 63px;
+	}
+	article p{
+        font-size: 16px;
+		text-align: left;
+	}
+
+}
+//--------helmet-------
+#helmet{
+    min-height:510px;
+    text-align:right;
+    margin-top: 50px;
+    font-weight: 300;
+    
+
+    h3{
+
+    margin: 20px 0 15px;
+
+    }
+   .left{
+   transition:all 0.5s;
+   	transform:translateX(-560px);
+
+   }
+   .right{
+   transition:all 0.5s;
+
+   	transform:translateX(560px);
+
+   }
+}
+
+//----- comp------------
+#comp{
+	background:#E4E4E4;
+	min-height:505px;
+	ul{
+		margin-top: 115px;
+	}
+	li{
+		height: 140px;
+		list-style-type: none;
+		border-radius: 3px;
+		p:first-child{
+			font-size: 20px;
+			color:#1AC6FF;
+			font-weight: bold;
+			padding-top: 30px;
+		}
+		p{
+			padding-left:20px;
+		}
+	}
+	li:first-child{
+		background: #1AC6FF;
+		p:first-child{
+			color:white;
+		}
+		p:last-child{
+			color:white;
+		}
+	}
+	img{
+		width:900px;
+		height:540px;
+		margin-top: 100px;
+		margin-left: -81px;
+		display: inline-block;
+	}
+   
+}
+//----update--------
+#update{
+	min-height:132px;
+	background:url("../../background.jpg");
+	.right1{transition:all 0.5s;
+   	transform:translateX(-1200px);
+   	}
+	.left1{transform:translateX(1200px);
+		transition:all 0.5s;}
+	background-size:cover;
+	background-attachment:fixed;
+
+	h2,p{
+	   font-size:15px;
+	  	color:white;}
+	  
+     h2{ font-size: 45px;font-weight: 300;}
+
+.form{
+	margin-top:40px;
+
+}
+
+
+input{
+	margin:1px;
+	border:1px solid white;
+	padding:10px;
+    
+}
+.input1,.input2{
+	border-left:3px solid #1AC6FF;
+}
+.input3{
+	background:transparent;
+	border-radius:1px;
+	color:white;
+	font-size:15px;
+	width:145px;
+}
+
+
+}
+//-------product-------
+
+#product{
+	min-height:899px;
+	span{color:#1AC6FF;}
+
+
+
+	h2{
+		color:black;
+		font-weight:300;
+	  font-size: 45px;
+	}
+
+
+}
+
+//---------product----------
+//#product{
+	//.col-md-4{
+        
+		//height:615px;
+		//background-color:grey;
+
+		
+	//}
+
+//}
+
+
+
+#price{
+	overflow:hidden;
+.up1{
+	transition:all 0.5s;
+   	transform:translateY(-1200px);
+}
+
+	h1{
+		font-weight: 300;
+		margin-top: 80px;
+		margin-right: 45px;
+		font-size: 45px;.hvr:hover{
+			background:#30CCFF;
+		}
+		span{
+			color:#22C8FF;
+		}
+	}
+	p{
+		font-weight: 400;
+		font-size:16px;
+		margin-right: 45px;
+	}
+	.price{
+		text-align:center;
+		margin-top:50px;
+		
+		.heading{
+				height: 60px;
+				background:#F8F8F8;
+				background:#F8F8F8;
+				font-size: 25px;
+				padding-top: 10px;
+				color:#A3A3A3;
+				font-weight: 300;
+			}
+			.cost{
+				font-size:115px;
+				font-weight: 400;
+				height: 336px;
+				background:#F3F3F3;
+				.currency{
+					font-size: 47px;
+					position: relative;
+					top:-40px;				
+				}
+				.period{
+					font-size: 15px;
+					display: block;
+					margin-top: -20px;
+				}
+			}
+			.blue{
+					color:#1AC6FF;
+				}
+			.details{
+				background:#F8F8F8;
+				ul{
+					padding-top: 30px;
+					padding-right:40px;
+			}
+				li{
+					list-style-type: none;
+					     margin:12px;
+					    color:black;
+					font-size: 16px;
+					line-height: 34px;
+					border-bottom:1px solid lightgray;
+
+				}
+
+				li:last-child{
+					border-bottom:none;
+				}
+				button{
+					width:270px;
+					height: 45px;
+					border:none;
+					background:transparent;
+					margin-top: 10px;
+					font-weight: bold;
+					margin-bottom: 50px;
+				}
+				.grayBorder{
+					border:1px solid #B6B6B6;
+					border-radius:3px;
+				}
+				.blueBorder{
+					border:1px solid #1AC6FF;
+					border-radius:3px;
+					transition:background 300ms, color 300ms,border 300ms;
+					&:hover{
+						background:white;
+						color:#1AC6FF;
+						border:1px solid white;
+					}
+				}
+			}
+			
+	}
+}
+
+
+//------AWARDS--------------------
+#awards{
+	min-height:300px;
+	overflow:hidden;
+   .up2{ transition:all 0.5s;
+   	transform:translateY(-300px);}
+	
+
+	span{color:#1AC6FF;}
+    img{
+    	width:150px;
+    	height:71px;
+    }
+	h2{
+		color:black;
+		font-weight:300;
+	  font-size: 45px;
+	}
+	ul{
+	   margin-top:50px;
+	}
+	li{
+	    padding:0 30px;
+	}
+}
+//---------------whaT-------------
+#what{
+	.what1{transition:all 0.5s;
+   	transform:translateY(200px)}
+
+	min-height:255px;
+	background:url("../../background.jpg");
+	background-size:cover;
+	background-attachment:fixed;
+	span{color:#1AC6FF;
+	}
+
+	h2{
+		color:white;
+		font-weight:300;
+	  font-size: 45px;
+	}
+	p{
+		color:white;
+	}
+	.img1{
+		position:absolute;
+		top:110px;
+		left:262px;
+		height:26px;
+	}
+	.img2{
+		position:absolute;
+		top:110px;
+		right:297px;
+		height:26px;
+
+	}
+}
+//----------feedback----------------
+#feedback{
+overflow:hidden;
+	.up3{transition:all 0.5s;
+   	transform:translateY(-200px);}
+
+    min-height:190px;
+    img{
+    	width:80px;
+    	height:80px;
+    	border-radius:70%;
+    }
+    p{ 
+
+      
+     font-size:16px;
+    	display:inline-block;
+    	margin-left:5px;
+    }
+    .col-md-10{
+    	border-bottom:1px solid #E7E7E7;
+    	padding:30px 0;
+    }
+span{
+	color:#4FD3FF;
+}
+
+
+
+}
+
+//-----STARTUP-------
+#startup{
+	background:#1AC6FF;
+	min-height:144px;
+	i{
+		font-size: 60px;
+		margin-top: 35px;
+		color:white;
+	}	
+	h2{
+		color:white;
+		font-size: 45px;
+		font-weight:300;
+		margin-top: 30px;
+	}
+	p{
+		color:white;
+		margin-left: 67px;
+		margin-top: -10px;
+	}
+	button{
+		width:185px;
+		height: 50px;
+		border:1px solid white;
+		border-radius: 3px;
+		background: transparent;
+		color:white;
+		float: right;
+		margin-top: -60px;
+		transition: background 300ms, color 300ms;
+		&:hover{
+			background:white;
+			color:#4FD3FF;
+		}
+	}
+}
+
+
+
+
+//-- footer------
+#footer{
+	.col-md-4{
+		margin-top:65px;
+
+	}
+	min-height:415px;
+	background:url("../../background.jpg");
+	background-size:cover;
+	background-attachment:fixed;
+	p{      margin-top:15px;
+		    font-size: 15px;
+		    color:white;
+
+	}
+	li{     
+
+		    padding: 0 25px 15px;
+	}
+   span{ font-size:30px;
+   	
+
+   }
+  .network{
+  	h4{
+  		color: white;
+  	}
+		i{  padding:10px;
+			width:50px;
+			font-size: 50px;
+			margin-left: 10px;
+			margin-top: 10px;
+			color:#1AC6FF;
+			&:hover{
+				color:#33ADEC;
+				cursor: pointer;
+			}
+		}
+	}
+	.contact{
+		i,span{
+			font-size:15px;
+		}
+		i{
+			color :#38B7EA;
+			padding-right:10px;
+			text-align: left;
+			font-size:20px;
+		}
+		span{
+			color:white;
+			padding-left: 10px;
+		}
+		span:nth-child(3){
+			color:#38B7EA;
+		}
+		.addressSecond{
+			padding-left:35px;
+		}
+	}
+	h5{
+		color:#C6C2DF;
+		margin-top: 50px;
+
+
+	}
+	h4{
+		color:white;
+	}
+
+	.the{
+		margin-top:60px;
+		margin-left:50px;
+		padding:15px;
+	}
+}
+
+
+#team{
+min-height:772px;
+span{
+	color:#4FD3FF;
+	font-weight:300;
+
+}
+
+
+p{color:black;
+	font-size:18px;
+	font-weight:300;}
+
+
+	
+	}
+
+
+#team{
+	min-height:772px;
+img{
+	width:263px;
+	height:263px;
+}
+	h2{
+		font-weight: 300;
+		margin-top: 80px;
+		margin-right: 45px;
+		font-size: 55px;
+		span{
+			color:#22C8FF;
+		}
+	}
+	.text{
+		font-weight: 400;
+		font-size:16px;
+		margin-right: 45px;
+	}
+	img{
+		display: inline-block;
+		margin-top: 70px;
+		outline-width: 100%;
+	}
+	.col-md-3{
+		text-align: center;
+	}
+	.name{
+		font-size:16px;
+		color:#1AC6FF;
+		margin-top: 20px;
+	}
+	.profession{
+		margin-top: -10px;
+	}
+}
+
+
+
+.person{
+	    width:200px;
+	    height:200px;
+		position:relative;
+		overflow:hidden;
+		background:red;
+		.back{
+			width: 100%;
+			height: 100%;
+			position:absolute;
+			background:blue;
+			transition:1s;
+			top:100px;
+			
+		}
+
+
+		 
+	}
+
+	.person:hover  .back{
+			
+				top:0px;
+				background:yellow;			
+		}
+
+#feature{
+	margin-bottom:80px;
+	.saga{transition:all 0.5s;
+   	transform:translateX(-1200px);
+   }
+   .sola{
+   	transition:all 0.3s;
+   	transform:translateX(1200px);
+
+   }
+
+
+
+
+	.setir{
+	
+	.sola{
+
+		}	display: flex;
+		text-align: center;
+		padding-left:15px;
+		padding-right:15px;
+		margin-top: 45px;
+		.feature{
+			&:hover i{
+				color:#76DDFF;
+			}
+			i,h4,p{
+				display: block;	
+			}
+			i{
+				font-size:53px;
+				color:#1BC6FF;
+			}
+		}
+	}
+}
+
+	
+
+@import 'menu';
+@import 'header';
+@import 'logo';
+//@import 'forEveryStartup';
+//@import 'technology';
+//@import 'helmet';
+//@import 'comp';
+//@import 'feature';
+//@import 'updates';
+//@import 'price';
+//@import 'award';
+//@import 'feedback';
+//@import 'team';
+//@import 'startup';
+//@import 'footer';
+
+
+
+
+
+
+
+
+
+
+
